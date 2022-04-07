@@ -1,23 +1,37 @@
-Life is like a hurricane here in Duckburg
+![Image](https://static.wikia.nocookie.net/logopedia/images/1/17/DuckTales_2017_logo.svg/revision/latest?cb=20210303143243)
 
-Racecars, lasers, aeroplanes, it's a duck blur
+# **DuckTales**
+---
+```
+1. Start Date: August 12, 2017
+2. End Date: March 15, 2021
+3. Number of Seasons: 3
+```
 
-Might solve a mystery, or rewrite history
+## Theme Song
 
-DuckTales, woo-oo!
+* *Life is like a hurricane here in Duckburg*
 
-Every day, they're out there making DuckTales, woo-oo!
+* *Racecars, lasers, aeroplanes, it's a duck blur*
 
-Tales of derring-do, bad and good luck tales! Woo-oo!
+* *Might solve a mystery, or rewrite history*
 
-D-d-d-danger lurks behind you!
+* *'DuckTales', woo-oo!*
 
-There's a stranger out to find you!
+* *Every day, they're out there making 'DuckTales', woo-oo!*
 
-What to do, just grab onto some DuckTales! Woo-oo!
+* *Tales of derring-do, bad and good luck tales! Woo-oo!*
 
-Every day, they're out there making DuckTales, woo-oo!
+* *D-d-d-danger lurks behind you!*
 
-Tales of daring, bad and good, not ponytails or cottontails!
+* *There's a stranger out to find you!*
 
-No, DuckTales! Woo-oo!
+* *What to do, just grab onto some 'DuckTales'! Woo-oo!*
+
+* *Every day, they're out there making 'DuckTales', woo-oo!*
+
+* *Tales of daring, bad and good, not ponytails or cottontails!*
+
+* *No, 'DuckTales'! Woo-oo!*
+
+> [Link to Lyrics](https://www.lyricsondemand.com/tvthemes/ducktaleslyrics.html)
