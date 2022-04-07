@@ -1,4 +1,4 @@
-![Image](https://static.wikia.nocookie.net/logopedia/images/1/17/DuckTales_2017_logo.svg/revision/latest?cb=20210303143243)
+<img src="https://static.wikia.nocookie.net/logopedia/images/1/17/DuckTales_2017_logo.svg/revision/latest?cb=20210303143243" width="270" height = "150">
 
 # **DuckTales**
 ---
