@@ -1,6 +1,6 @@
-<img src="https://static.wikia.nocookie.net/logopedia/images/1/17/DuckTales_2017_logo.svg/revision/latest?cb=20210303143243" width="90" height = "50">
+<img src="https://static.wikia.nocookie.net/logopedia/images/1/17/DuckTales_2017_logo.svg/revision/latest?cb=20210303143243" width=".90" height = "60">
 
-# **DuckTales**
+# **DuckTales (2017)**
 ---
 ```
 1. Start Date: August 12, 2017
@@ -34,4 +34,4 @@
 
 * *No, 'DuckTales'! Woo-oo!*
 
-> [Link to Lyrics](https://www.lyricsondemand.com/tvthemes/ducktaleslyrics.html)
+> [Link to Theme Song Lyrics](https://www.lyricsondemand.com/tvthemes/ducktaleslyrics.html)
