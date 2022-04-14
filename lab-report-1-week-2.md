@@ -58,10 +58,10 @@
   
 
 **6. Optimizing Remote Running**
-  * Logging into server (password no longer asked for)
+  * Logging into remote server and running ls command, then exiting (password no longer asked for)
   
-  ![Genous SSH Key Login](https://piazza.com/redirect/s3?bucket=uploads&prefix=paste%2Fkttd06fg1y64m0%2F0ffbe1cf36b9cee8ae493d3efbf5ac74f4760cbda361780d0f177a64e5f6fd67%2Fimage.png)
+  ![Genous SSH Login and ls](https://user-images.githubusercontent.com/103216157/163315016-f5202967-40a9-45c0-9305-312d622ec09f.PNG)
   
-  * Running WhereAmI.java in server (on only one line in terminal)
+  * Running multiple commands for WhereAmI.java and OtherMain.java in remote server on only one terminal line (error for OtherMain.java not existing)
 
-  ![Genous SSH WhereAmI](https://piazza.com/redirect/s3?bucket=uploads&prefix=paste%2Fkttd06fg1y64m0%2F0ffbe1cf36b9cee8ae493d3efbf5ac74f4760cbda361780d0f177a64e5f6fd67%2Fimage.png)
+  ![Genous SSH Multiple Commands](https://user-images.githubusercontent.com/103216157/163315217-191ae54b-05cf-4628-bb33-827a6ca0c544.PNG)
