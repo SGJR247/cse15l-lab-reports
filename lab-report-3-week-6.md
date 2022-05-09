@@ -45,6 +45,18 @@
 
 * Whole markdown-parse directory copied over to my ieng6 account
 
+![ieng6 Compile and Run Tests](https://user-images.githubusercontent.com/103216157/167344614-59408d68-21f8-481d-8b30-f7ebfe69440b.png)
 
+* Compiling and running tests for markdown-parse repository in ieng6 account
 
+![Combining Commands (Part 1)](https://user-images.githubusercontent.com/103216157/167345255-702a68cc-9c08-4130-83c1-20b0ff4ee81d.png)
 
+* Vast amount of lines in code saying "Permission denied" after running compbined scp and ssh command in terminal
+
+![Combining Commands (Part 2)](https://user-images.githubusercontent.com/103216157/167345357-dcab7fd5-f673-4a9c-aee7-6522e125e93d.png)
+
+* After copying elements over, I'm logged into my ieng6 account
+
+![Combining Commands (Part 3)](https://user-images.githubusercontent.com/103216157/167345470-e0f67aad-c16f-46a9-83ae-641cb5a96470.png)
+
+* Files compiled and tests ran successfully in ieng6 server
