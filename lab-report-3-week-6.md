@@ -31,3 +31,20 @@
 
 **3. Copy whole directories with `scp -r`**
 
+![scp -r Copying (Part 1)](https://user-images.githubusercontent.com/103216157/167343755-09913886-2ac9-48c0-a5cf-5294b0b71b72.png)
+
+![scp -r Copying (Part 2)](https://user-images.githubusercontent.com/103216157/167343859-4bbf746b-bda0-4a5e-af51-624f96a0e8d6.png)
+
+![scp -r Copying (Part 3)](https://user-images.githubusercontent.com/103216157/167343911-388f76f1-b3d3-484f-a108-3076a54e5439.png)
+
+![scp -r Copying (Part 4)](https://user-images.githubusercontent.com/103216157/167343951-68d467d5-7886-41e8-900e-3c0e9c5b9cc9.png)
+
+![scp -r Copying (Part 5)](https://user-images.githubusercontent.com/103216157/167343994-15891fd5-2a57-4dcc-8215-a05985a416e6.png)
+
+![scp -r Copying (Part 6)](https://user-images.githubusercontent.com/103216157/167344030-f1ed556d-cf89-4ad0-a56f-365775cd9039.png)
+
+* Whole markdown-parse directory copied over to my ieng6 account
+
+
+
+
