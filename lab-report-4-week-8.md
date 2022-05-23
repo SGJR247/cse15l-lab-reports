@@ -3,8 +3,17 @@
 
 *Lab 7 Markdown Tests*
 
-**1. Snippet 1**
+[Link to my markdown-parse repository](https://github.com/SGJR247/markdown-parser)
 
-**2. Snippet 2**
+[Link to reviewed markdown-parse repository from Lab 7](https://github.com/mikayladalton2/markdown-parser)
 
-**3. Snippet 3**
+
+
+
+
+
+**1. Snippet 1 Test**
+
+**2. Snippet 2 Test**
+
+**3. Snippet 3 Test**
