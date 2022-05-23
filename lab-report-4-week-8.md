@@ -31,7 +31,7 @@
 
 ![Lab 7 TestSnippet2 Fail](https://user-images.githubusercontent.com/103216157/169734178-8088dfd6-57f4-4c14-9bea-8ea54930f05b.png)
 
-
+> I think my program would need a more involved change so that it works with snippet 2, in terms of nesting parentheses, brackets, and escaped brackets. This is because there would have to be consideration for where the very first parenthesis/bracket/escaped bracket starts in the line, and where the last one ends so that it makes the appropriate link to put in the array.
 
 ***
 
@@ -46,3 +46,5 @@
 * Failed for Lab 7 review repository
 
 ![Lab 7 TestSnippet3 Fail](https://user-images.githubusercontent.com/103216157/169734269-6ab495ef-5cda-4639-ab67-6bc6c1d5c105.png)
+
+> I think there could be a small code change in my program that could make it work for snippet 3, with regards to newlines in brackets and parentheses. More specifically, this could be accomplished by creating an if statement that checks for newlines found in the brackets and parentheses. If there are newlines in there, the program excludes them from the string for the link being put inside of the array.
