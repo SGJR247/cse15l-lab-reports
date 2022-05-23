@@ -16,6 +16,7 @@
 
 * Test Case for Snippet 1 (Passed for both repositories)
 
+***
 
 **2. Snippet 2 Test**
 
@@ -24,6 +25,9 @@
 * Test Case for Snippet 2
 * Failed for my repository
 
+![Genous TestSnippet2 Fail](https://user-images.githubusercontent.com/103216157/169732837-15efcf3d-53c0-410e-9904-14680f6230a9.png)
+
+***
 
 **3. Snippet 3 Test**
 
@@ -31,3 +35,6 @@
 
 * Test Case for Snippet 3
 * Failed for my repository
+
+![Genous TestSnippet3 Fail](https://user-images.githubusercontent.com/103216157/169732888-f86311e7-48e0-4a87-b525-907e2995f4ab.png)
+
